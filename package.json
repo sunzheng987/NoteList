@@ -1,0 +1,11 @@
+{
+  "name": "sunzhongzheng",
+  "version": "1.0.0",
+  "description": "在任务中，做了一个 PC 端的 ToDo 应用。任务四是将它优化，以适应移动端设备。",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "szz",
+  "license": "ISC"
+}
