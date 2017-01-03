@@ -5,7 +5,7 @@
  * 数据访问对象，包含数据的各种增删查改
  *
  * @file DAO-AMD.js
- * @author Gaohaoyang(gaohaoyang126@126.com)
+ * @author Sunzhongzheng(zhongzhengs@126.com)
  *
  */
 
@@ -62,7 +62,7 @@ define(['util-AMD'], function(_) {
                 "pid": 0,
                 "finish": true,
                 "name": "使用说明",
-                "date": "2016-10-05",
+                "date": "2016-12-05",
                 "content": "本应用为离线应用，数据将存储在本地硬盘\n\n左侧为分类列表\n中间为当前分类下的任务列表\n右侧为任务详情\n\n可以添加删除分类，添加任务，修改任务，以及给任务标记是否完成等功能\n\nby Gaohaoyang\nhttp://gaohaoyang.github.io ",
             }];
 
