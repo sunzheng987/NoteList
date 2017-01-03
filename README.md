@@ -1,8 +1,8 @@
-# ToDo
+# NoteList
 
-在任务中，做了一个 PC 端的 ToDo 应用。并将它优化，以适应移动端设备。
+在任务中，做了一个 PC 端的 NoteList 应用。并将它优化，以适应移动端设备。
 
-## ToDo 
+## NoteList 
 
 
 * [源代码](https://github.com/sunzheng987/NoteList)
