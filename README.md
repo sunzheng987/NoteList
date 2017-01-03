@@ -9,7 +9,7 @@
 * [在线 demo](http://sunzheng987.github.io/ToDo)
 * 手机查看 ↓ 二维码 ↓
     
-    ![todoWebApp](http://qr.api.cli.im/qr?data=https%253A%252F%252Fsunzheng987.github.io%252FToDo%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=42b126825d4917ed3030df1476e3ea06)
+    ![todoWebApp](http://qr.api.cli.im/qr?data=https%253A%252F%252Fsunzheng987.github.io%252FNoteList%252F&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=07b45b9231d628bca12a3c57b56ecfb8)
 
 
 
